@@ -133,7 +133,7 @@ This repository contains solutions for the data science internship tasks, comple
 
 1. **Clone the repository**:
 
-   * `git clone https://github.com/your-username/your-repository-name.git`
+   * `[git clone https://github.com/your-username/your-repository-name.git](https://github.com/laibamushtaq0/data-science-internship-2025.git)`
 
 2. **Install dependencies**:
 
